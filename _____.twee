@@ -1,0 +1,134 @@
+:: StoryTitle
+未命名故事
+
+
+:: StoryData
+{
+  "ifid": "A5851020-00D4-4A25-8E01-09E218AB3957",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "A Chinese turn-based PC game： MHXY",
+  "zoom": 1
+}
+
+
+:: \ Moonshadow Radiance {"position":"250,825","size":"100,100"}
+ Deals heavy magic damage to the machine man
+ [[I'm in. ]]
+
+
+:: \ Sweeping Strike {"position":"675,700","size":"100,100"}
+Attacks the manchine man 3 times, then rests for 1 turn.
+[[I'm in.]] 
+
+
+:: \ Vital Surge {"position":"850,700","size":"100,100"}
+Restores health to the user or an ally,
+[[I'm in.  ]]
+
+
+:: A Chinese turn-based PC game： MHXY {"position":"475,300","size":"100,100"}
+You are a wandering martial artist without an affiliation. Please choose one of the following three sects:
+
+[[Buddhist temple (Healer)]]
+[[Jingmu Linn(AP)]]
+[[Tianji City(AD)]]
+
+
+:: Bloodlust Technique {"position":"425,700","size":"100,100"}
+Increases the user’s damage for 3 turns, channeling fierce intent into each strike
+[[I'm in.]] 
+
+
+:: Buddhist temple (Healer) {"position":"600,425","size":"100,100"}
+This sect is a believer in Buddhism and compassion, so most of the disciples of this sect are healers as well as buff adders, here are the 3 skills of this sect:
+
+1. Vital Surge: Restores health to the user or an ally, replenishing their strength for continued combat.
+
+2. HereIron Guardian: A buff that increases the user’s physical damage, enhancing their strength and power in melee attacks.
+
+3. Spiritual Shield: A buff that boosts magical damage, empowering the user’s spells and mystical abilities for greater impact.
+
+4. Chanting Ramble: Recites sacred sutras to deal magic damage to three enemy units, channeling spiritual energy into an attack.
+
+[[I'm in.  ]]
+
+
+:: Chanting Ramble {"position":"1100,700","size":"100,100"}
+Recites sacred sutras to deal magic damage to the machine man
+[[I'm in.  ]]
+
+
+:: Graceful Strike {"position":"550,700","size":"100,100"}
+Attacks the machine man once and boosts your speed for 2 turns, allowing for swift, agile movements.
+[[I'm in.]] 
+
+
+:: HereIron Guardian {"position":"975,700","size":"100,100"}
+You use the buff on yourself that increases the user’s physical damage
+[[I'm in.  ]]
+
+
+:: I'm in. {"position":"550,575","size":"100,100"}
+Congratulations on choosing Tianji City, now we will enter the first battle, the opponent is a machine man, which skill you want to use:
+
+1.[[ Sweeping Strike]]
+2. [[Bloodlust Technique]]
+3.[[Graceful Strike]]
+
+
+:: I'm in.\  {"position":"275,575","size":"100,100"}
+Congratulations on choosing Jingmu Linn, now we will enter the first battle, the opponent is a machine man, which skill you want to use:
+
+1.[[ Moonshadow Radiance]]
+2. [[Thorn Dance]]
+3.[[Sweet Dew]]
+
+
+:: I'm in.\ \  {"position":"850,575","size":"100,100"}
+Congratulations on choosing Buddhist temple, now we will enter the first battle, the opponent is a machine man, which skill you want to use:
+
+1.[[ Vital Surge]]
+2. [[HereIron Guardian]]
+3.[[Spiritual Shield]]
+4. [[Chanting Ramble]]
+
+
+:: Jingmu Linn(AP) {"position":"350,425","size":"100,100"}
+This sect uses a fan and a giant sword, and claims to be a messenger of moonlight, drawing on the power of moonlight to unleash its skills, featuring the use of AP-based skills:
+
+1. Moonshadow Radiance: Deals heavy magic damage to three enemy units, harnessing the power of moonlight.
+
+2. Thorn Dance: Consumes Moonshadow to deal heavy magic damage to a single enemy unit, striking with intense focus.
+
+3. Sweet Dew: Increases the number of Moonshadow stacks, enhancing the user’s potential for future attacks.
+
+4. Moonshadow: Passive skill. Each stack increases the user’s critical hit chance, empowering attacks with greater precision.
+[[I'm in. ]]
+
+
+:: Spiritual Shield {"position":"1225,700","size":"100,100"}
+You use a buff on yourself that boosts magical damage
+[[I'm in.  ]]
+
+
+:: Sweet Dew {"position":"125,825","size":"100,100"}
+Increases the number of Moonshadow stacks
+[[I'm in. ]] 
+
+
+:: Thorn Dance {"position":"375,825","size":"100,100"}
+Consumes Moonshadow to deal heavy magic damage to machine man
+[[I'm in. ]] 
+
+
+:: Tianji City(AD) {"position":"475,425","size":"100,100"}
+This sect is a prestigious sect that uses swords and swords and acts on behalf of the heavens, prim and proper, and is characterized by the use of physical-based skills:
+
+1. Sweeping Strike: Attacks a single target 3 times, then rests for 1 turn.
+
+2. Bloodlust Technique: Increases the user’s damage for 3 turns, channeling fierce intent into each strike.
+
+3. Graceful Strike: Attacks a single target once and boosts the user’s speed for 2 turns, allowing for swift, agile movements.
+
+[[I'm in.]]
